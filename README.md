@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Gael Alejandro Pérez Espinosa</h1>
+<p align="center">Informatics | Faculty of Accounting and Management (FCA) UNAM</p>
 
-<!--
-**Galileo035/Galileo035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Informatics student at the Faculty of Accounting and Management (FCA) of the National Autonomous University of Mexico (UNAM), with an interest in building user-centered digital products. I focus on user experience (UX) design, mobile application development, and website development.
+
+### Areas of Interest
+
+- User Experience (UX) Design
+- Mobile Application Development
+- Web Development
+
+### Currently Learning
+
+- E-commerce
+- Information and Communication Technologies (ICT)
+- Databases
+- Programming in multiple languages
+
+- ---
+
+### Languages
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-%23F54A2A.svg?style=for-the-badge&logo=swift&logoColor=white) 
