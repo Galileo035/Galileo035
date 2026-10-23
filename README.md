@@ -1,5 +1,5 @@
 <h1 align="center">Gael Alejandro Pérez Espinosa</h1>
-<p align="center">Informatics | Faculty of Accounting and Management (FCA) UNAM</p>
+<p align="center">Informática | Facultad de Contaduría y Administración UNAM</p>
 
 ---
 
@@ -13,16 +13,16 @@ Informatics student at the Faculty of Accounting and Management (FCA) of the Nat
 
 ### Areas of Interest
 
-- User Experience (UX) Design 🎨
-- Mobile Application Development 📱
-- Web Development 🌐
+- User Experience (UX) Design  🎨
+- Mobile Application Development  📱
+- Web Development  🌐
 
 ### Currently Learning
 
-- E-commerce
-- Information and Communication Technologies (ICT)
-- Databases
-- Programming in multiple languages
+- E-commerce 🛍️
+- Information and Communication Technologies (ICT) 🖥️
+- Databases  💾
+- Programming in multiple languages 💻
 
 <br clear="right">
 
